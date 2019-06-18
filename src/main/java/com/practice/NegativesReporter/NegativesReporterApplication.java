@@ -22,8 +22,5 @@ public class NegativesReporterApplication implements CommandLineRunner{
 
 		negativesReporterService.processNegativeReports();
 	}
-	
-	
-	
 
 }
